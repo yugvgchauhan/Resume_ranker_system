@@ -1,0 +1,57 @@
+YUG CHAUHAN 91 8866583135
+yugchauhan3135@gmail.com
+Ahmedabad, India.
+ABOUT ME
+Innovative and analytical problem-solver with a strong passion for Data Science, AI, and emerging technologies. I
+thrive on exploring new concepts and turning complex challenges into scalable, impactful solutions. With a strong
+blend of technical expertise and creative thinking, I take a hands-on approach to solving real-world problems. A
+collaborative team player with proven leadership abilities, Im equally comfortable contributing within a group or
+guiding teams toward shared goals. Eager to grow in a dynamic environment where I can apply my skills, adapt to
+evolving technologies, and drive meaningful impact.
+EDUCATION
+Silver Oak University , Ahmedabad . 2022 - 2026
+Bachelor of Technology in Information Technology  CGPA  9.56
+SKILLS
+Languages  Libraries Python, SQL, NumPy, Pandas, Scikit-learn, TensorFlow, Keras,, NLTK, spaCy
+Visualization Matplotlib, Seaborn, Plotly
+Math  Stats Probability, Statistics, Linear Algebra
+Databases MySQL
+Tools Jupyter, Google Colab, Github, VS Code
+Soft Skills Communication, Teamwork, Leadership, Fast Learner
+PROJECTS
+CNN-Based Plant Disease Detection App
+Designed and trained a CNN model to detect plant diseases from leaf images.
+Built a Streamlit app that predicts the disease name from an uploaded image and display short information.
+Flight Fare Prediction App using ML  Streamlit
+Built a web app to predict airline ticket prices using a trained Random Forest model.
+Achieved R² score of 0.89 on validation data and deployed via Streamlit with modular preprocessing.
+Apple Million Dataset Analysis using SQL
+Analyzed large-scale Apple product sales data across stores using SQL queries.
+Derived insights on top products, store performance, and sales trends.
+Volcanic Eruption and Earthquake Data Analysis
+Analyzed global volcanic eruption and earthquake data using Python, NumPy, Pandas.
+Visualized trends and patterns using Seaborn and Matplotlib for insightful interpretation.
+INTERNSHIPS
+IBM SkillsBuilds
+June , 2024 - August, 2024
+Data Analytics Summer Internship Program
+Analyzed large datasets to identify patterns and insights for business decision-making.
+Worked with Pandas, NumPy and SQL for data cleaning ,manipulation and created interactive visualizations.
+Infividhya
+June , 2024 - July, 2024
+Introduction to Data Science Summer Internship
+Gained foundational knowledge of data science concepts, including data preprocessing and basic AI- ML.
+Explored key data science techniques and their real-world applications.
+AICTE  Edunet Foundation
+Dec , 2024 - Jan, 2025
+AI-ML With Green Skills
+Developed Chatbot using NLP concepts and Fasttext model.
+Explored the application of machine learning algorithms for promoting green skills.
+CERTIFICATIONS
+Code Unnati Advanced course for AI-ML, DL, IoT, Computer Vision .
+Google Cloud Career Launchpad Generative AI track .
+NPTEL - Design and Analysis of Algorithm .
+NPTEL - Software Engineering .
+NPTEL - programming in Java.
+NPTEL - Introduction to IoT
+LANGUAGES English , Hindi , Gujarati

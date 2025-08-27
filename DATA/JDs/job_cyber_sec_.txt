@@ -1,0 +1,15 @@
+Job Title: Cybersecurity Specialist
+
+Responsibilities:
+- Monitor and secure IT systems against cyber threats.
+- Conduct vulnerability assessments and penetration testing.
+- Implement firewalls, intrusion detection, and encryption protocols.
+- Investigate security breaches and provide incident reports.
+- Stay updated with the latest cybersecurity trends and regulations.
+
+Requirements:
+- Knowledge of networking protocols and operating systems.
+- Hands-on experience with SIEM tools and firewalls.
+- Familiarity with ethical hacking and penetration testing tools.
+- Strong problem-solving and risk assessment skills.
+- Security certifications (CEH, CISSP) are a plus.

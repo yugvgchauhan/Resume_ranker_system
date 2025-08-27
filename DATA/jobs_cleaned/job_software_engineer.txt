@@ -1,0 +1,13 @@
+Job Title Software Engineer
+Responsibilities
+- Design, develop, and maintain scalable software applications.
+- Write clean, efficient, and maintainable code.
+- Participate in code reviews and improve system architecture.
+- Troubleshoot, debug, and optimize performance issues.
+- Collaborate with cross-functional teams including product managers and designers.
+Requirements
+- Proficiency in Python, Java, or C.
+- Strong understanding of data structures, algorithms, and object-oriented programming.
+- Experience with databases SQLNoSQL and REST APIs.
+- Knowledge of version control Git and agile methodologies.
+- Strong problem-solving skills and teamwork abilities.

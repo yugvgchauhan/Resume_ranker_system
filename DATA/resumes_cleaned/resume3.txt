@@ -1,0 +1,71 @@
+MANTHAN PRAKASHBHAI JAIN
+B.TechinInformationTechnology
+manthanjain2107@gmail.com cid211 919054539326 fl httpswww.linkedin.cominmanthan-jain-66a37a305 cid135 manthanjain2107
+EDUCATION EXPERIENCE
+SilverOakUniversitySOU Winter Internship
+CPI8.38 CSRBOX
+cid17 July2022Present Gota,Gujarat cid17 Dec2024Jan2025
+ClassXIIJaySomnathHigherSecondarySchool  Completeda2-weekintensiveprogramfocusedon
+employabilityskillsandcareerreadiness.
+GHSEB
+Learnedindustry-alignedmodulesandpractical
+Percentage58.30
+problem-solvinginareal-worldenvironment.
+cid17 20212022 Ahmedabad,Gujarat
+Summer Internship
+ClassXJaySomnathHigherSecondarySchool
+CSRBOX
+GSEB
+cid17 Jun2024Aug2024
+Percentage74.16
+Focusedonfront-enddevelopmentusingHTML,
+cid17 20192020 Ahmedabad,Gujarat
+CSS,JavaScript.
+Builtresponsivewebprojectsandcollaboratedus-
+SKILLS
+ingGit,GitHub,andVSCode.
+C PythonBasics HTML CSS JavaScript PROJECTS
+MySQL MongoDB ExpressJS ReactJS NodeJS
+Figma VSCode Git GitHub BasicWebScraper
+Developed a Python-based web scraper
+ACHIEVEMENTS
+using requests and BeautifulSoup to ex-
+tract and process data from websites. Im-
+IBMSkillsBuildWinterCertificationProgram-Place- plemented HTML parsing, data filtering,
+mentAssistancewithCSRBOX
+and error handling. Strengthened skills in
+IBMSkillsBuildSummerCertificationProgramFron-
+HTTP requests, DOM traversal, and data
+tendWebDevelopmentwithCSRBOX
+extraction techniques.
+Strengtheneddatastructuresandalgorithmsprofi-
+ciencythroughconsistentLeetCodeproblem-solving AFull-StackTaskManagementApp
+acrosscoretopics.
+TaskFlow is a full-stack task management
+application that lets users register, log in,
+INTERESTS
+and manage their tasks To-Do, In Progress,
+Done. Users can add, update, delete, and
+Programming
+move tasks between statuses in a Trello-
+Traveling
+style board interface.
+ListeningtoMusic
+Swimming NetflixCloneHTMLCSSJS
+LearningNewTechnologies  Developed a responsive front-end replica
+of Netflixs homepage featuring movie
+COURSEWORK
+cards, category rows, hover animations,
+and embedded trailers.
+DataStructuresandAlgorithms
+Applied modern web development tech-
+Object-OrientedProgramming
+niques such as Flexbox, media queries, and
+EngineeringMathematicsIII
+DOM manipulation.
+OperatingSystems
+Focused on clean UXUI design, perfor-
+DatabaseManagementSystems
+mance optimization, and responsiveness to
+ComputerNetworks
+mobile devices.

@@ -1,0 +1,36 @@
+VYOM KORAT
+vyomkorat88@gmail.com | +91 7226035052 | Vyom Korat | vyomkorat
+PROFILE SUMMARY
+Self-motivated Data Analytics enthusiast skilled in Power BI, Python, Excel, and data visualization. Ca-
+pable of uncovering patterns, solving problems, and building dashboards to support data-driven decisions. Strong
+communicator with a passion for learning and delivering impactful insights.
+EDUCATION
+Bachelor of Technology in Information Technology, Silver Oak University 2022 – Present
+CGPA: 8.54 / 10
+Higher Secondary Certificate (Science), Alpha Vidhya Sankul 2020 – 2022
+Percentage: 76.02%
+SKILLS
+Technical Skills Python, SQL, Power BI, Excel, Git & GitHub, Statistics, Visualization
+Soft Skills Problem Solving, Time Management, Communication, Critical Thinking, Teamwork
+INTERNSHIPS
+AICTE Virtual Internship Program (Edunet Foundation) Dec 2024 – Jan 2025
+Intent-Based Chatbot Project
+• Developed an NLP-based chatbot to enhance user interaction by accurately recognizing intent.
+• Gained experience in data preprocessing, chatbot training, and conversational model deployment.
+IBM SkillsBuilds – Data Analytics Internship June 2024 – Aug 2024
+• Analyzed large datasets using Python (Pandas, NumPy) and SQL to identify patterns for business insights.
+• Created dashboards and visualizations to support decision-making.
+PROJECTS
+Swiggy Sales Insights Dashboard- Developed a Power BI dashboard to analyze city-wise sales, customer
+behavior, and demographics, enabling targeted marketing, loyalty programs, and strategic promotions.
+Olympic Games EDA – Performed exploratory data analysis (EDA) on Olympic datasets to extract meaningful
+insights and trends.
+Hospital Emergency Room Dashboard – Created an Excel-based dashboard to monitor ER KPIs and improve
+patient service tracking.
+Global YouTube Statistics Analysis- Developed a Python-based data analysis project using Pandas and Matplotlib to
+uncover trends in YouTube channels globally, including subscriber growth, category-wise views, and top-performing
+countries.
+CERTIFICATIONS
+Google Cloud Career Launchpad – Generative AI Track
+NPTEL – Introduction to Internet of Things
+Data Analytics Program – Tops Technologies (Pursuing)

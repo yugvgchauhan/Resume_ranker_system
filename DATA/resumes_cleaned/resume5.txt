@@ -1,0 +1,78 @@
+JAIN MANTHAN PRAKASHBHAI
+BTECH IN INFROMATION TECHNOLOGY
+manthanjain2107@gmail.com Github
+91 9054539326 Linked in
+C a r e e r S u m m a r y
+A dedicated B.Tech IT student with a strong passion for coding, web development, and software
+engineering. Proficient in HTML, CSS, JavaScript, React, Node.js, and MongoDB, with hands-on
+project experience. Strong in data structures, algorithms, and problem-solving. Continuously
+learning and staying updated with the latest technologies. Eager to contribute to impactful,
+user-centric tech solutions.
+C o n t a c t E x p e r i e n c e
+Phone 9054539326 Winter Internship
+CSRBOX Dec2024Jan2025
+Emailmanthanjain2107@gmail.com
+Completed a 2 week intensive program
+AddressAmraiwadi,Ahemdabad,Gujarat
+focused on employability skills and career
+readiness.
+S k i l l s
+Learned industry-aligned modules and
+practical problem-solving in a real-world
+C language Express Js
+environment
+Python basics React Js
+Summer Internship
+HTML Node Js
+CSRBOX Jun2024- Aug2024
+CSS Figma
+Focused on front-end development using
+Javascript Vs Code
+HTML, CSS, JavaScript.
+My Sql Git
+Built responsive web projects and
+Mongo DB Git Hub
+collaborated using Git, GitHub, andVSCode
+E d u c a t i o n s P r o j e c t s
+Silver Oak UniversitySOU  2022 - Present Netflix CloneHTMLCSS
+B-Tech Information  Technology
+Developed a responsive Netflix clone
+CGPA 8.38 Gota,Gujarat
+homepage using HTML and CSS with Flexbox
+Jay Somnath Higher Secondary School 2021-22
+and Grid for layout.
+Class XII GHSEB
+Designed structured UI components
+Percentage 58.30 Ahemdabad,Gujarat
+including navigation bar, banner, and movie
+Jay Somnath Higher Secondary School 2019-20
+Class XII SSC thumbnails.
+Percentage 74.16 Ahemdabad,Gujarat A Full-Stack Task Management App
+A c h i v e m e n t s
+Developed TaskFlow, a full-stack task
+management app with user authentication
+IBM SkillsBuild Winter Certification Program -
+and CRUD operations.
+Placement Assistance with CSRBOX
+Enabled Trello-style drag-and-drop task
+IBM SkillsBuild Summer Certification Program
+handling across To-Do, In Progress, and Done
+Front-end Web Development with CSRBOX
+stages.
+C o u r s e W o r k Basic Web Scraper
+Built a Python web scraper using Requests
+Data Structures and Algorithms
+and BeautifulSoup for data extraction and
+Object-Oriented Programming
+HTML parsing.
+Engineering Mathematics II
+Implemented data filtering, error handling,
+Database Management Systems
+and enhanced skills in DOM traversal and
+Computer Networks
+HTTP requests.
+Operating Systems
+I n t e r e s t s
+Programming Learning New Technologies
+Leading Group Traveling
+Exploring AI Tool Like ChatGpt

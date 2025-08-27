@@ -1,0 +1,63 @@
+PRAJAPATI RACHIT SUNILKUMAR
+B.TechinInformationTechnology
+rachitprajapati225@gmail.com cid211 919313210492 fl httpswww.linkedin.cominrachit-prajapati-aa216b344 cid135 Rachit220
+EDUCATION EXPERIENCE
+SilverOakUniversitySOU Winter Internship
+CPI8.61 CSRBOX
+cid17 July2022Present Gota,Gujarat cid17 Dec2024Jan2025
+ClassXIIS.SPatelSchoolofScienceandCom-  Completeda2-weekintensiveprogramfocusedon
+employabilityskillsandcareerreadiness.
+merceGHSEB
+Learnedindustry-alignedmodulesandpractical
+Percentage51.66
+problem-solvinginareal-worldenvironment.
+cid17 20212022 Kalol,Gujarat
+Summer Internship
+ClassXCaravanHighSchoolGSEB
+BirdMorningSolutions
+Percentage70.00
+cid17 Jun2024July2024
+cid17 20192020 Kalol,Gujarat
+Focusedonfront-enddevelopmentusingHTML,
+CSS,JavaScript.
+SKILLS
+Builtresponsivewebprojectsandcollaboratedus-
+ingGit,GitHub,andVSCode.
+C PythonBasics HTML CSS JavaScript
+MySQL Figma VSCode Git GitHub PROJECTS
+ACHIEVEMENTS
+1. QuizGameMCQBased
+Objective A fun game where the user an-
+IBMSkillsBuildWinterCertificationProgram-Place-
+swers multiple-choice questions.
+mentAssistancewithCSRBOX
+Concepts used Dictionary for storing
+InternatBirdMorningSolutionsforWebsiteDevelope-
+questions and answers Loops Input vali-
+mentforOneMonth.
+dation Score tracking Features to Include
+ParticipinginaOne-DayWorkshopsonAdvanced
+DatabaseIntegrationwithREACTand.NET. Ask 5-10 questions Each question has 4
+options User chooses the correct option
+ParticipinginaOne-DayWorkshopsonDataScience
+DiscoveryUnleashingCarrerPotential. Final score is shown
+2. NumberGuessingGame
+INTERESTS
+Objective The user tries to guess a ran-
+Programming domly generated number. Concepts used
+random module loops Conditional logic in-
+Traveling
+put  output Features to include Generate
+ListeningtoMusic
+a random number between 1 and 100 Give
+Cricket
+hints Too high  Too low Track number of
+LearningNewTechnologies
+attempts Restart or quit option
+COURSEWORK
+DataStructuresandAlgorithms
+Object-OrientedProgramming
+EngineeringMathematicsIII
+OperatingSystems
+DatabaseManagementSystems
+ComputerNetworks

@@ -1,0 +1,15 @@
+Job Title: Frontend Developer
+
+Responsibilities:
+- Develop and maintain user-facing web applications with responsive design.
+- Write clean, modular, and reusable JavaScript/TypeScript code.
+- Optimize web pages for performance and scalability.
+- Collaborate with backend developers and UI/UX designers.
+- Debug issues and implement best practices for accessibility.
+
+Requirements:
+- Proficiency in HTML, CSS, and JavaScript.
+- Experience with frameworks like React, Angular, or Vue.
+- Familiarity with REST APIs and frontend build tools.
+- Strong understanding of cross-browser compatibility issues.
+- Good problem-solving skills and eye for design.

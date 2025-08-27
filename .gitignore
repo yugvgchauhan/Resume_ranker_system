@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Ignore database files (can be recreated)
+databases/*.db
+databases/chroma_db/
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs or temporary files
+*.log
+*.tmp
+
+# Ignore Jupyter notebooks checkpoints
+.ipynb_checkpoints/

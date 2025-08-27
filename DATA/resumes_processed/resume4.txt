@@ -1,0 +1,63 @@
+PRAJAPATI RACHIT SUNILKUMAR
+B.TechinInformationTechnology
+rachitprajapati225@gmail.com (cid:211) (+91)9313210492 fl https://www.linkedin.com/in/rachit-prajapati-aa216b344 (cid:135) Rachit220
+EDUCATION EXPERIENCE
+SilverOakUniversity(SOU) Winter Internship
+CPI:8.61 CSRBOX
+(cid:17) July2022–Present  Gota,Gujarat (cid:17) Dec2024–Jan2025
+ClassXII|S.SPatelSchoolofScienceandCom- • Completeda2-weekintensiveprogramfocusedon
+employabilityskillsandcareerreadiness.
+merce(GHSEB)
+• Learnedindustry-alignedmodulesandpractical
+Percentage:51.66%
+problem-solvinginareal-worldenvironment.
+(cid:17) 2021–2022  Kalol,Gujarat
+Summer Internship
+ClassX|CaravanHighSchool(GSEB)
+BirdMorningSolutions
+Percentage:70.00%
+(cid:17) Jun2024–July2024
+(cid:17) 2019–2020  Kalol,Gujarat
+• Focusedonfront-enddevelopmentusingHTML,
+CSS,JavaScript.
+SKILLS
+• Builtresponsivewebprojectsandcollaboratedus-
+ingGit,GitHub,andVSCode.
+C PythonBasics HTML CSS JavaScript
+MySQL Figma VSCode Git GitHub PROJECTS
+ACHIEVEMENTS
+1. QuizGame(MCQBased)
+• Objective: A fun game where the user an-
+• IBMSkillsBuildWinterCertificationProgram-Place-
+swers multiple-choice questions.
+mentAssistancewithCSRBOX
+Concepts used: Dictionary (for storing
+• InternatBirdMorningSolutionsforWebsiteDevelope-
+questions and answers) Loops Input vali-
+mentforOneMonth.
+dation Score tracking Features to Include:
+• ParticipinginaOne-DayWorkshopson"Advanced
+DatabaseIntegrationwithREACTand.NET". Ask 5-10 questions Each question has 4
+options User chooses the correct option
+• ParticipinginaOne-DayWorkshopson"DataScience
+Discovery:UnleashingCarrerPotential". Final score is shown
+2. NumberGuessingGame
+INTERESTS
+• Objective: The user tries to guess a ran-
+• Programming domly generated number. Concepts used:
+random module loops Conditional logic in-
+• Traveling
+put / output Features to include: Generate
+• ListeningtoMusic
+a random number between 1 and 100 Give
+• Cricket
+hints (Too high / Too low) Track number of
+• LearningNewTechnologies
+attempts Restart or quit option
+COURSEWORK
+• DataStructuresandAlgorithms
+• Object-OrientedProgramming
+• EngineeringMathematicsI&II
+• OperatingSystems
+• DatabaseManagementSystems
+• ComputerNetworks

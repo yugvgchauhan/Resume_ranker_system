@@ -1,0 +1,13 @@
+Job Title Data Scientist
+Responsibilities
+- Collect, clean, and preprocess large datasets from multiple sources.
+- Apply statistical techniques and machine learning algorithms to build predictive models.
+- Develop data pipelines and automate ETL processes.
+- Communicate insights through visualizations and reports to business stakeholders.
+- Collaborate with software engineers, analysts, and domain experts.
+Requirements
+- Strong knowledge of Python, SQL, and data analysis libraries Pandas, NumPy.
+- Experience with machine learning frameworks scikit-learn, TensorFlow, PyTorch.
+- Good understanding of statistics, probability, and hypothesis testing.
+- Familiarity with cloud platforms AWS, GCP, or Azure is a plus.
+- Excellent problem-solving and communication skills.

@@ -1,0 +1,71 @@
+MANTHAN PRAKASHBHAI JAIN
+B.TechinInformationTechnology
+manthanjain2107@gmail.com (cid:211) (+91)9054539326 fl https://www.linkedin.com/in/manthan-jain-66a37a305 (cid:135) manthanjain2107
+EDUCATION EXPERIENCE
+SilverOakUniversity(SOU) Winter Internship
+CPI:8.38 CSRBOX
+(cid:17) July2022–Present  Gota,Gujarat (cid:17) Dec2024–Jan2025
+ClassXII|JaySomnathHigherSecondarySchool • Completeda2-weekintensiveprogramfocusedon
+employabilityskillsandcareerreadiness.
+(GHSEB)
+• Learnedindustry-alignedmodulesandpractical
+Percentage:58.30%
+problem-solvinginareal-worldenvironment.
+(cid:17) 2021–2022  Ahmedabad,Gujarat
+Summer Internship
+ClassX|JaySomnathHigherSecondarySchool
+CSRBOX
+(GSEB)
+(cid:17) Jun2024–Aug2024
+Percentage:74.16%
+• Focusedonfront-enddevelopmentusingHTML,
+(cid:17) 2019–2020  Ahmedabad,Gujarat
+CSS,JavaScript.
+• Builtresponsivewebprojectsandcollaboratedus-
+SKILLS
+ingGit,GitHub,andVSCode.
+C PythonBasics HTML CSS JavaScript PROJECTS
+MySQL MongoDB ExpressJS ReactJS NodeJS
+Figma VSCode Git GitHub BasicWebScraper
+• Developed a Python-based web scraper
+ACHIEVEMENTS
+using requests and BeautifulSoup to ex-
+tract and process data from websites. Im-
+• IBMSkillsBuildWinterCertificationProgram-Place- plemented HTML parsing, data filtering,
+mentAssistancewithCSRBOX
+and error handling. Strengthened skills in
+• IBMSkillsBuildSummerCertificationProgram(Fron-
+HTTP requests, DOM traversal, and data
+tendWebDevelopment)withCSRBOX
+extraction techniques.
+• Strengtheneddatastructuresandalgorithmsprofi-
+ciencythroughconsistentLeetCodeproblem-solving AFull-StackTaskManagementApp
+acrosscoretopics.
+• TaskFlow is a full-stack task management
+application that lets users register, log in,
+INTERESTS
+and manage their tasks (To-Do, In Progress,
+Done). Users can add, update, delete, and
+• Programming
+move tasks between statuses in a Trello-
+• Traveling
+style board interface.
+• ListeningtoMusic
+• Swimming NetflixClone(HTML/CSS/JS)
+• LearningNewTechnologies • Developed a responsive front-end replica
+of Netflix’s homepage featuring movie
+COURSEWORK
+cards, category rows, hover animations,
+and embedded trailers.
+• DataStructuresandAlgorithms
+• Applied modern web development tech-
+• Object-OrientedProgramming
+niques such as Flexbox, media queries, and
+• EngineeringMathematicsI&II
+DOM manipulation.
+• OperatingSystems
+• Focused on clean UX/UI design, perfor-
+• DatabaseManagementSystems
+mance optimization, and responsiveness to
+• ComputerNetworks
+mobile devices.

@@ -1,0 +1,58 @@
+P R I Y A N S H U T U R A K H I A
+DATA ANALYST INTERN
+CONTACT PROFILE SUMMARY
+Analytical and detail-oriented BTech IT student with a 9.24 CGPA,
+6356131261
+passionate about transforming data into actionable insights. Proficient
+turakhiapriyanshu1303@gmail.com in Excel, SQL, Python, and visualization tools like Tableau and Power BI.
+Ahmedabad, Gujarat Eager to contribute to data-driven decision-making as a data analyst
+through strong problem-solving skills, clear communication, and hands-
+Linkedin
+on project experience.
+Portfolio
+EDUCATION WORK EXPERIENCE
+2022 - 2026 Trainity MAR 2025–MAY 2025
+SILVER OAK UNIVERSITY Data Analyst Intern
+B.Tech in Information Technology
+Worked on multiple analytics projects, including IMDB Movie
+Current CGPA : 9.24
+Analysis, Car Data, and Call Volume Analysis.
+Developed dashboards and extracted insights from structured
+datasets.
+SKILLS Gained hands-on experience in Excel-based and SQL-based data
+exploration.
+Hard Skills:
+Data Analysis
+IBM Skills Build-CSRBOX DEC 2024 - JAN 2025
+Data Visualization
+Winter Internship
+Statistical Analysis
+Gained hands-on experience in analyzing datasets and deriving
+Dashboard Building
+actionable insights using Python.
+Tools: Utilized libraries like Pandas, NumPy, and Matplotlib for data
+Python manipulation, visualization, and statistical analysis.
+Applied data-driven approaches to real-world scenarios, focusing
+Excel
+on decision-making and problem-solving
+Tableau
+Power BI
+PROJECTS
+MySQL
+Github Cifar-10 Image Classification APRIL 2025
+Soft Skills: Tools - Python, Tensorflow
+Project Managemet
+Built and trained CNN models for image classification on CIFAR-10
+Teamwork dataset.
+Time Management Achieved optimized accuracy through data augmentation and
+tuning.
+Leadership
+Gained practical experience in ML pipeline and model evaluation.
+Critical Thinking
+Car Price and Profitability Analysis MAY 2025
+Tools - Excel, Tableau
+Investigated how car features influence price and profitability.
+Applied regression analysis, combo charts, and dashboards for
+visual storytelling.
+Provided data-backed recommendations to enhance product
+development and pricing.

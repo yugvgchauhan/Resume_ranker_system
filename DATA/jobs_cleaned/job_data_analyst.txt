@@ -1,0 +1,13 @@
+Job Title Data Analyst
+Responsibilities
+- Gather, clean, and analyze structured and unstructured datasets.
+- Generate dashboards and reports to support business decisions.
+- Perform exploratory data analysis EDA and identify trends.
+- Work closely with stakeholders to define KPIs and reporting needs.
+- Use visualization tools to communicate insights effectively.
+Requirements
+- Strong skills in SQL, Excel, and data visualization tools Tableau, Power BI.
+- Experience with PythonR for data manipulation.
+- Knowledge of statistics and hypothesis testing.
+- Ability to turn business requirements into actionable analysis.
+- Good communication and presentation skills.

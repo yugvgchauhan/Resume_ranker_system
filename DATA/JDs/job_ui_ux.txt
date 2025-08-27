@@ -1,0 +1,15 @@
+Job Title: UI/UX Designer
+
+Responsibilities:
+- Design user-friendly interfaces and improve user experience.
+- Conduct user research, usability testing, and feedback sessions.
+- Create wireframes, prototypes, and design systems.
+- Work closely with developers to ensure design consistency.
+- Stay updated with design trends and best practices.
+
+Requirements:
+- Proficiency in design tools (Figma, Adobe XD, Sketch).
+- Strong portfolio showcasing UI/UX projects.
+- Understanding of design principles, typography, and color theory.
+- Knowledge of accessibility standards.
+- Strong communication and collaboration skills.
