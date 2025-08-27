@@ -17,7 +17,8 @@ class Embedder:
         os.makedirs("databases/chroma_db", exist_ok=True)
 
         # Persistent Chroma client
-        self.chroma_client = chromadb.PersistentClient(path="databases/chroma_db")
+        self.chroma_client = chromadb.Client()
+
 
         # Separate collections for resumes and jobs
         self.resume_collection = self.chroma_client.get_or_create_collection("resumes")
