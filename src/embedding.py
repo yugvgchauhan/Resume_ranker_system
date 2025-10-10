@@ -16,17 +16,39 @@ class Embedder:
         # Ensure ChromaDB directory exists
         os.makedirs("databases/chroma_db", exist_ok=True)
 
-        # Persistent Chroma client
-        self.chroma_client = chromadb.PersistentClient(path="databases/chroma_db")
+        # Persistent Chroma client with proper settings
+        try:
+            self.chroma_client = chromadb.PersistentClient(
+                path="databases/chroma_db",
+                settings=chromadb.Settings(
+                    anonymized_telemetry=False,
+                    allow_reset=True
+                )
+            )
+        except Exception as e:
+            print(f"ChromaDB initialization failed, trying alternative approach: {e}")
+            # Fallback: try with different settings
+            try:
+                self.chroma_client = chromadb.PersistentClient(
+                    path="databases/chroma_db",
+                    settings=chromadb.Settings(
+                        anonymized_telemetry=False,
+                        allow_reset=True,
+                        chroma_db_impl="duckdb+parquet"
+                    )
+                )
+            except Exception as e2:
+                print(f"Alternative ChromaDB initialization also failed: {e2}")
+                raise e2
 
         # Separate collections for resumes and jobs
         self.resume_collection = self.chroma_client.get_or_create_collection("resumes")
         self.job_collection = self.chroma_client.get_or_create_collection("jobs")
 
         # ✅ Load pretrained embedding model
-        print(f"[✔] Loading embedding model: {model_name}")
+        print(f"[OK] Loading embedding model: {model_name}")
         self.model = SentenceTransformer(model_name)
-        print("[✔] Model loaded with embedding dimension:",
+        print("[OK] Model loaded with embedding dimension:",
               self.model.get_sentence_embedding_dimension())
 
     # ------------------------- Utility -------------------------
@@ -50,7 +72,7 @@ class Embedder:
             embeddings=[embedding],
             metadatas=[metadata]
         )
-        print(f"[✔] Resume embedded → {metadata.get('filename')} (resume_id={resume_id})")
+        print(f"[OK] Resume embedded -> {metadata.get('filename')} (resume_id={resume_id})")
 
     # ------------------------- Job Embedding -------------------------
     def process_job(self, job_id, text, metadata):
@@ -66,7 +88,7 @@ class Embedder:
             embeddings=[embedding],
             metadatas=[metadata]
         )
-        print(f"[✔] Job embedded → {metadata.get('job_name')} (job_id={job_id})")
+        print(f"[OK] Job embedded -> {metadata.get('job_name')} (job_id={job_id})")
 
     # ------------------------- Session Embedding -------------------------
     def process_session(self, session_id, resumes_data, job_data):
@@ -86,7 +108,7 @@ class Embedder:
             resume_text = res.get("text", "")
             self.process_resume(res["resume_id"], resume_text, res)
 
-        print(f"[✔] Finished embeddings for session {session_id}")
+        print(f"[OK] Finished embeddings for session {session_id}")
 
 
 # ------------------------- Quick Test -------------------------

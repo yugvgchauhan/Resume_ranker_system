@@ -22,15 +22,22 @@ class InfoParser:
     def extract_name(self, text):
         text = self.fix_uppercase_name(text)
         lines = [line.strip() for line in text.split("\n") if line.strip()]
+        # Common location words to filter (to avoid picking locations as names)
+        location_keywords = ['india', 'usa', 'canada', 'australia', 'germany', 'ahmedabad', 'mumbai', 'delhi']
         for line in lines[:15]:  # only first 15 lines likely contain name
             lower = line.lower()
             if any(word in lower for word in self.skip_words):
+                continue
+            if any(loc in lower for loc in location_keywords):
                 continue
             if self.email_pattern.search(line) or self.phone_pattern.search(line):
                 continue
             if re.search(r'\d', line):
                 continue
-            return line.title()
+            # Heuristics: prefer lines with 2-4 words, letters only
+            tokens = [t for t in re.findall(r"[A-Za-z]+", line) if t]
+            if 1 <= len(tokens) <= 4:
+                return " ".join(tokens).title()
         return "Unknown"
 
     def extract_email(self, text):

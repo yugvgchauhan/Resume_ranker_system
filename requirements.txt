@@ -3,6 +3,14 @@ pdfplumber
 python-docx
 nltk
 sentence-transformers
-chromadb
+chromadb==0.4.24
 scikit-learn
 numpy
+pandas
+plotly
+torch
+transformers
+spacy
+spacy-transformers
+matplotlib
+seaborn

@@ -1,0 +1,42 @@
+{
+  "scoring_weights": {
+    "semantic_weight": 0.25,
+    "skill_match_weight": 0.25,
+    "experience_weight": 0.15,
+    "education_weight": 0.10,
+    "keyword_weight": 0.15,
+    "structure_weight": 0.05,
+    "tfidf_weight": 0.05
+  },
+  "experience_penalty": {
+    "over_qualified_threshold": 2.0,
+    "over_qualified_penalty": 0.2
+  },
+  "education_boost": {
+    "phd_boost": 0.1,
+    "master_boost": 0.05,
+    "bachelor_boost": 0.0
+  },
+  "skill_importance": {
+    "programming_languages": 1.0,
+    "frameworks": 0.8,
+    "databases": 0.7,
+    "cloud_platforms": 0.9,
+    "tools": 0.6
+  },
+  "models": {
+    "semantic_model": "all-mpnet-base-v2",
+    "bert_model": "bert-base-uncased",
+    "embedding_dimension": 768
+  },
+  "database": {
+    "sqlite_path": "databases/resume_rank_enhanced.db",
+    "chroma_path": "databases/chroma_db",
+    "max_results": 50
+  },
+  "ui": {
+    "default_top_k": 10,
+    "enable_analytics": true,
+    "enable_visualizations": true
+  }
+}

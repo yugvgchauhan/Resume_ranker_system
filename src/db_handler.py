@@ -2,6 +2,7 @@ import sqlite3
 import os
 from datetime import datetime
 
+# Keep legacy path to avoid breaking older flows
 DB_PATH = "databases/resume_rank.db"
 os.makedirs("databases", exist_ok=True)
 
@@ -39,6 +40,7 @@ class DBHandler:
             CREATE TABLE IF NOT EXISTS sessions (
                 session_id INTEGER PRIMARY KEY AUTOINCREMENT,
                 job_id INTEGER,
+                session_name TEXT,
                 created_at TEXT,
                 FOREIGN KEY (job_id) REFERENCES jobs(job_id) ON DELETE CASCADE
             )""")
@@ -60,7 +62,24 @@ class DBHandler:
                 UNIQUE(session_id, resume_id)
             )""")
             conn.commit()
-        print(f"[✔] Database initialized at {DB_PATH}")
+        print(f"[OK] Database initialized at {DB_PATH}")
+        # Run light migrations to avoid schema errors between old/new flows
+        self._run_migrations()
+
+    def _run_migrations(self):
+        """Apply non-destructive schema migrations (idempotent)."""
+        try:
+            with self.get_connection() as conn:
+                cursor = conn.cursor()
+                # 1) Ensure sessions.session_name exists
+                cursor.execute("PRAGMA table_info(sessions)")
+                cols = [row[1] for row in cursor.fetchall()]
+                if "session_name" not in cols:
+                    cursor.execute("ALTER TABLE sessions ADD COLUMN session_name TEXT")
+                    conn.commit()
+        except Exception as e:
+            # Do not crash app if migration fails; just log
+            print(f"[WARN] Migration skipped or failed: {e}")
 
     # ---------------- Insert ----------------
     def insert_resume(self, filename, name, email, phone, experience=0.0):
@@ -109,14 +128,17 @@ class DBHandler:
             """, (job_name, exp_required, upload_date))
             return cursor.lastrowid
 
-    def insert_session(self, job_id):
+    def insert_session(self, job_id, session_name=None):
         created_at = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        if session_name is None:
+            session_name = f"Session_{created_at.replace(':', '-').replace(' ', '_')}"
+        
         with self.get_connection() as conn:
             cursor = conn.cursor()
             cursor.execute("""
-                INSERT INTO sessions (job_id, created_at)
-                VALUES (?, ?)
-            """, (job_id, created_at))
+                INSERT INTO sessions (job_id, session_name, created_at)
+                VALUES (?, ?, ?)
+            """, (job_id, session_name, created_at))
             return cursor.lastrowid
 
     def insert_ranking(self, session_id, job_id, resume_id, cosine_score, ats_score, exp_score, final_score, rank):
